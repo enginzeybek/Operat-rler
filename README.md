@@ -1,1 +1,2 @@
-# Operat-rler
+# Operatorler
+-Patika c# eğitimi operatörler konusu.
